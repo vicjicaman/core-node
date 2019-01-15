@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/core-node",
-  "version": "1.0.0-hoist-dev-init-dev",
+  "version": "1.0.0-hoist-dev-init-prod",
   "description": "Base for modules in node",
   "main": "./dist/index.js",
   "repository": "github.com:vicjicaman/core-node",
