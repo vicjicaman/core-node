@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/core-node",
-  "version": "1.10.1-master",
+  "version": "1.70.1-clean-baseline-prod",
   "description": "Base for modules in node",
   "main": "./dist/index.js",
   "repository": "github.com:vicjicaman/core-node",
